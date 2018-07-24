@@ -63,6 +63,7 @@
                 margin-bottom: 30px;
             }
         </style>
+        {{-- Lorem ipsum dolor sit amet. --}}
     </head>
     <body>
         <div class="flex-center position-ref full-height">
